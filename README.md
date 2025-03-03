@@ -10,7 +10,15 @@ membres du groupe :
 
 ## Getting started
 
+Pour lancer le projet :
+- Lancer le serveur
+    1. Aller dans le dossier `server/`
+    2. Lancer le serveur via la commande `go run main.go`
 
+- Lancer le jeu
+    1. Aller dans `client/`
+    2. fait un `go build` afin de construire le projet
+    3. Lancer le projet via la commande `./puissancequatre -ip 127.0.0.1`
 
 ## fichier client
 
