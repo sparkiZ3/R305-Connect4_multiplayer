@@ -1,6 +1,6 @@
 # projet R305-Connect4_multiplayer
 
-Vous pouvez trouver le sujet de ce projet [ici](./0-presentation.pdf)
+Le but de ce projet était de prendre un jeu déjà existant puis de le rendre jouable en multijoueurs via un serveur et un client fonctionnel. Vous pouvez trouver le sujet de ce projet [ici](./0-presentation.pdf) pour une explication plus précise
 
 Espace gitlab du projet de la ressource R305 - Programmation système
 
